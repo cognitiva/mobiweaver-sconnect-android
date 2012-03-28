@@ -1,0 +1,6 @@
+syntax: glob
+.svn
+.DS_Store
+*~
+bin/*
+gen/*

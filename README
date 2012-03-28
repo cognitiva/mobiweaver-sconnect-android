@@ -1,0 +1,13 @@
+===========================
+mobiweaver-sconnect-android
+===========================
+
+This is a PhoneGap application to call directly a Netweaver server using basic authentication.
+
+
+Build instructions
+
+The included Eclipse project needs the Android SDK, PhoneGap/Apache Cordova (tested with version 1.5) [1] and the Barcode Scanner plugin [2].
+
+[1] http://incubator.apache.org/cordova/
+[2] https://github.com/phonegap/phonegap-plugins

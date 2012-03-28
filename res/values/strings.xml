@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">S-Connect</string>
+	<string name="quit">Quit</string>
+	<string name="settings">Settings</string>
+	<string name="username">Username</string>
+	<string name="password">Password</string>
+	<string name="login">Login</string>
+	<string name="server">Server</string>
+	<string name="port">Port</string>
+	<string name="save">Save</string>
+	<string name="path">Path</string>
+	<string name="client">Client</string>
+	<string name="https">HTTPS</string>
+
+</resources>

@@ -1,0 +1,32 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+<EditTextPreference
+	android:key="server"
+	android:title="@string/server"
+	android:summary="Server name"
+	android:dialogTitle="Server name, ex. server.company.com" />
+
+<EditTextPreference
+	android:key="port"
+	android:title="@string/port"
+	android:summary="Port for HTTP/HTTPS connection" 
+	android:dialogTitle="Port for HTTP/HTTPS connection, ex. 8000" />
+
+<EditTextPreference
+	android:key="path"
+	android:title="@string/path"
+	android:summary="Start URL path"
+	android:dialogTitle="Start URL path, ex. /sap/bc/bsp/sap/yapp" />
+
+<EditTextPreference
+	android:key="client"
+	android:title="@string/client"
+	android:summary="Server client number" 
+	android:dialogTitle="Server client number, ex. 800" />
+
+<CheckBoxPreference 
+	android:key="https" 
+	android:title="HTTPS" 
+	android:summary="Use encrypted HTTPS connection" />
+
+</PreferenceScreen>
