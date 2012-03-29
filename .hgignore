@@ -3,4 +3,3 @@ syntax: glob
 .DS_Store
 *~
 bin/*
-gen/*
